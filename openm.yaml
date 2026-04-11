@@ -1,0 +1,7 @@
+name: smart-traffic-intersection
+version: "1.0.0"
+description: AI-driven 4-way traffic signal controller RL environment.
+type: http
+runtime: docker
+app: server.app:app
+port: 8000
